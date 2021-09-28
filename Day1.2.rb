@@ -1,6 +1,7 @@
 arr = [];
 if arr.length > 0;
-puts "1"
+puts "Array is not empty"
 else
-    puts "0"
+    puts "Array is empty"
 end
+
